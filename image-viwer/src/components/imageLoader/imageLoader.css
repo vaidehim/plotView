@@ -1,0 +1,29 @@
+.uploader-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.image-size{
+    width: 450px
+}
+
+.message-container{
+    margin-left: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
